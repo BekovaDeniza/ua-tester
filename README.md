@@ -50,25 +50,25 @@ http://user:pass@10.10.10.10:3128
 ### Базовый запуск:
 
 ```bash
-python -m ua_tester.main --url https://example.com
+python -m ua_tester.main --url "https://example.com"
 ```
 
 ### С конкретными impersonate:
 
 ```bash
-python -m ua_tester.main --url https://example.com --impersonate-only chrome,safari15_3
+python -m ua_tester.main --url "https://example.com" --impersonate-only chrome,safari15_3
 ```
 
 ### Без прокси:
 
 ```bash
-python -m ua_tester.main --url https://example.com --no-proxy
+python -m ua_tester.main --url "https://example.com" --no-proxy
 ```
 
 ### С выводом в другой файл:
 
 ```bash
-python -m ua_tester.main --url https://example.com --output results.txt
+python -m ua_tester.main --url "https://example.com" --output results.txt
 ```
 
 ---
