@@ -13,7 +13,7 @@
 ## 📦 Установка
 
 ```bash
-git clone https://github.com/your-repo/ua-tester.git
+git clone https://github.com/BekovaDeniza/ua_tester.git
 cd ua-tester
 python -m venv venv
 source venv/bin/activate
