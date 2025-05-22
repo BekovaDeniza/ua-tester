@@ -22,7 +22,7 @@
 
 ```bash
 git clone https://github.com/BekovaDeniza/ua_tester.git
-cd ua-tester
+cd ua_tester
 ````
 
 2. Создай виртуальное окружения и установи зависимости:
