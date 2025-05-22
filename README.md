@@ -21,8 +21,8 @@
 1. Клонируй репозиторий:
 
 ```bash
-git clone https://github.com/BekovaDeniza/ua_tester.git
-cd ua_tester
+git clone https://github.com/BekovaDeniza/ua-tester.git
+cd ua-tester
 ````
 
 2. Создай виртуальное окружения и установи зависимости:
